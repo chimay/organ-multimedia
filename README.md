@@ -5,7 +5,6 @@
 + [Screenshots](#screenshots)
 	* [History and meta-command](#history-and-meta-command)
 	* [Frecency, dedicated buffers and layers](#frecency-dedicated-buffers-and-layers)
-+ [Screencasts](#screencasts)
 
 <!-- vim-markdown-toc -->
 
