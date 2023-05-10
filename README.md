@@ -10,6 +10,10 @@
 
 # Screenshots
 
+## Headline completion, links, list, table
+
+![All](all.jpg)
+
 ## Folding, list & table
 
 ![Folding, list & table](folding-list-table.jpg)
