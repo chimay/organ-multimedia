@@ -14,6 +14,10 @@
 
 ![All](all.jpg)
 
+## Goto fold defined by indentation
+
+![goto-indent](goto-indent.jpg)
+
 ## Folding, list & table
 
 ![Folding, list & table](folding-list-table.jpg)
